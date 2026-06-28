@@ -1,0 +1,19 @@
+{
+  "name": "game-of-thrones-dark",
+  "displayName": "Game of Thrones Dark",
+  "description": "Game of Thrones Dark theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "juansimon712",
+  "license": "MIT",
+  "engines": { "vscode": "^1.60.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Game of Thrones Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/game-of-thrones-dark-color-theme.json"
+      }
+    ]
+  }
+}
